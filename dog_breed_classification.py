@@ -7,7 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1Pc4vYJeaf7-rXjyPoAhXDxVB6B_O1M0M
 
 The Oxford - IIIT Pet Dataset
+
 The Oxford-IIIT Pet Dataset is a collection of pet images for computer vision tasks. It has 37 categories (like dog breeds) with around 200 images each. The images have variations in size, pose, and lighting, making it more realistic. It's great for training models to classify pet breeds or even segment the image (separate pet from background).
+
+This dataset is of size 2GB, to use, upload it first to drive and then use.
+Download link for dataset: https://www.robots.ox.ac.uk/~vgg/data/pets/
 """
 
 # This code requires TensorFlow and Keras to be installed
